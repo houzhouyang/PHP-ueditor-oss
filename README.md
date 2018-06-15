@@ -1,4 +1,4 @@
-
+//修改该方法即可
     private function upFile()
        {
         $file = $this->file = $_FILES[$this->fileField];
